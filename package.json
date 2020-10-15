@@ -1,13 +1,10 @@
 {
   "name": "rn-translucent-statusbar-android",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "is a small and simple package that helps make your React Native app",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "homepage": "https://github.com/hoanglam10499/rn-translucent-statusbar-android",
   "repository": {
