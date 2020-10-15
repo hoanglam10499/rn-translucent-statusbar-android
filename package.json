@@ -1,0 +1,35 @@
+{
+  "name": "rn-translucent-statusbar-android",
+  "version": "0.0.1",
+  "description": "is a small and simple package that helps make your React Native app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/hoanglam10499/rn-translucent-statusbar-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanglam10499/rn-translucent-statusbar-android.git",
+    "baseUrl": "https://github.com/hoanglam10499/rn-translucent-statusbar-android"
+  },
+  "bugs": {
+    "url": "https://github.com/hoanglam10499/rn-translucent-statusbar-android/issues"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "react native new",
+    "new",
+    "package react new",
+    "hidden statusbar android",
+    "rn-translucent-statusbar-android",
+    "translucent android statusbar",
+    "android statusbar"
+  ],
+  "author": {
+    "name": "Hoang Lam",
+    "email": "hoanglam10499@gmail.com"
+  },
+  "license": "MIT"
+}
